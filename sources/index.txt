@@ -1,7 +1,8 @@
 xref Role
 =========
 
-The following examples of the xref role. 
+Below are examples of the xref role using the following dictionary value for the
+``xref_links`` config variable.
 
 .. code-block:: python
 
