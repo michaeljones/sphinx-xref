@@ -36,6 +36,14 @@ Will render as:
 
 The advantages become more apparent with scale.
 
+
+Usage Examples
+--------------
+
+[Alnoki](https://github.com/alnoki) has used `xref` on their [AAAAAA](https://github.com/alnoki/AAAAAA) project,
+including [usage documentation](https://alnoki.readthedocs.io/en/latest/dev-guide/procedures/sphinx.html#referencing-external-links)
+
+
 Credits
 -------
 
